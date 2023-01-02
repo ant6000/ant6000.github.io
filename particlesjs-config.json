@@ -72,11 +72,11 @@
     "events": {
       "onhover": {
         "enable": false,
-        "mode": "bubble"
+        "mode": "repulse"
       },
       "onclick": {
-        "enable": false,
-        "mode": "bubble"
+        "enable": true,
+        "mode": "repulse"
       },
       "resize": true
     },
